@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Third Table in New Branch" max_length="40" name="x_63625_scratch_third_table_in_new_branch" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
