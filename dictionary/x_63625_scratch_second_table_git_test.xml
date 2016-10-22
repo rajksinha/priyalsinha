@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Second Table GIT Test" max_length="40" name="x_63625_scratch_second_table_git_test" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

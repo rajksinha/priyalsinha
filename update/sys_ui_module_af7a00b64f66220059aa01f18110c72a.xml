@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Second Table GIT Test">277a00b64f66220059aa01f18110c72a</application>
+        <filter/>
+        <name>Second Table GIT Tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_63625_scratch_second_table_git_test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-22 06:17:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>af7a00b64f66220059aa01f18110c72a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Second Table GIT Tests</sys_name>
+        <sys_package display_value="Start from scratch" source="x_63625_scratch">0ba10bf64f02220059aa01f18110c735</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Start from scratch">0ba10bf64f02220059aa01f18110c735</sys_scope>
+        <sys_update_name>sys_ui_module_af7a00b64f66220059aa01f18110c72a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-22 06:17:39</sys_updated_on>
+        <table>x_63625_scratch_second_table_git_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
