@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Very First Table" language="en" table="x_63625_scratch_very_first_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Very First Table</label>
+            <language>en</language>
+            <name>x_63625_scratch_very_first_table</name>
+            <plural>Very First Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-10 18:24:12</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a1bd748f4f12620059aa01f18110c7fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Very First Table</sys_name>
+            <sys_package display_value="Start from scratch" source="x_63625_scratch">0ba10bf64f02220059aa01f18110c735</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Start from scratch">0ba10bf64f02220059aa01f18110c735</sys_scope>
+            <sys_update_name>sys_documentation_x_63625_scratch_very_first_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-10 18:24:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
