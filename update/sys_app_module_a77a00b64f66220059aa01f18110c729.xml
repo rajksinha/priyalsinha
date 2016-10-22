@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Second Table GIT Test">6b7a00b64f66220059aa01f18110c728</application>
+        <application display_value="Start From Scratch">cce1943a4f66220059aa01f18110c795</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a77a00b64f66220059aa01f18110c729</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Second Table GIT Tests</sys_name>
         <sys_overrides/>
         <sys_package display_value="Start from scratch" source="x_63625_scratch">0ba10bf64f02220059aa01f18110c735</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Start from scratch">0ba10bf64f02220059aa01f18110c735</sys_scope>
         <sys_update_name>sys_app_module_a77a00b64f66220059aa01f18110c729</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-10-22 06:17:39</sys_updated_on>
+        <sys_updated_on>2016-10-22 06:53:37</sys_updated_on>
         <timeline_page/>
         <title>Second Table GIT Tests</title>
         <u_group/>
