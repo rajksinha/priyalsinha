@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Fourth Table for GIT Test" max_length="40" name="x_63625_scratch_fourth_table_for_git_test" type="collection"/>
+</database>
