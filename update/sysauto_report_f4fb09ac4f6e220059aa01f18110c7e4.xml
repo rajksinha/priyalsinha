@@ -25,7 +25,7 @@
         <sys_class_name>sysauto_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-15 11:19:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f4fb09ac4f6e220059aa01f18110c7e4</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>15 Oct -Test - Schedule Email Report</sys_name>

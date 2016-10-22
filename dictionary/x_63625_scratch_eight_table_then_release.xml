@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Eight Table then release" max_length="40" name="x_63625_scratch_eight_table_then_release" type="collection"/>
+</database>
