@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-10 18:24:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ddbdb08f4f12620059aa01f18110c728</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63625_scratch_very_first_table.x_63625_scratch_very_first_table_user</sys_name>

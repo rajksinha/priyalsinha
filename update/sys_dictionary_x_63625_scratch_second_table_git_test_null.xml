@@ -51,17 +51,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-22 06:17:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>a37a00b64f66220059aa01f18110c73f</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c11a1c3e4f66220059aa01f18110c786</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63625_scratch_second_table_git_test</sys_name>
         <sys_package display_value="Start from scratch" source="x_63625_scratch">0ba10bf64f02220059aa01f18110c735</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Start from scratch">0ba10bf64f02220059aa01f18110c735</sys_scope>
-        <sys_update_name>sys_dictionary_x_63625_scratch_second_table_git_test_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-10-22 06:17:39</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_63625_scratch_second_table_git_test_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-10-22 07:25:47</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

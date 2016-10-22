@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Very First Table" max_length="40" name="x_63625_scratch_very_first_table" sizeclass="8" text_index="true" type="collection"/>
+    <element extends="task" label="Very First Table" max_length="40" name="x_63625_scratch_very_first_table" text_index="true" type="collection"/>
 </database>

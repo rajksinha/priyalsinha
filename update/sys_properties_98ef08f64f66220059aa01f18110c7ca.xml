@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-22 06:41:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>98ef08f64f66220059aa01f18110c7ca</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63625_scratch.GITP_property</sys_name>
